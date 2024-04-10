@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--a href="https://github.com/gabrielcalmon/github-readme-stats"-->
+<a href="https://github.com/gabrielcalmon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcalmon&show_icons=true&theme=blueberry&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/gabrielcalmon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcalmon&layout=compact&theme=blueberry&hide=TeX,Makefile&langs_count=5" />
 </a>
 

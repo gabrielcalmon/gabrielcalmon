@@ -11,16 +11,12 @@ on:
   workflow_dispatch:
 
 # Regras
-jobs:
+jobs:  
   build:
-    runs-on: ubuntu-latest
-  update-version:
-    if: >
-      github.event.review.state == 'approved' && 
-          github.event.pull_request.state == 'open'
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
